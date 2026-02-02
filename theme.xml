@@ -112,14 +112,14 @@
         <color id="palette_entries_separator" value="#000000"/>
     </colors>
     <parts>
-        <part id="cursor_normal" x="80" y="0" w="16" h="16" focusx="0" focusy="0"/>
-        <part id="cursor_normal_add" x="80" y="16" w="16" h="16" focusx="1" focusy="1"/>
+        <part id="cursor_normal" x="80" y="0" w="16" h="16" focusx="1" focusy="1"/>
+        <part id="cursor_normal_add" x="80" y="16" w="16" h="16" focusx="2" focusy="2"/>
         <part id="cursor_crosshair" x="96" y="32" w="16" h="16" focusx="7" focusy="7"/>
-        <part id="cursor_forbidden" x="80" y="32" w="16" h="16" focusx="1" focusy="1"/>
+        <part id="cursor_forbidden" x="80" y="32" w="16" h="16" focusx="2" focusy="2"/>
         <part id="cursor_hand" x="80" y="48" w="16" h="16" focusx="5" focusy="3"/>
         <part id="cursor_scroll" x="80" y="64" w="16" h="16" focusx="8" focusy="8"/>
-        <part id="cursor_move" x="80" y="80" w="16" h="16" focusx="0" focusy="0"/>
-        <part id="cursor_move_selection" x="96" y="80" w="16" h="16" focusx="0" focusy="0"/>
+        <part id="cursor_move" x="80" y="80" w="16" h="16" focusx="2" focusy="2"/>
+        <part id="cursor_move_selection" x="96" y="80" w="16" h="16" focusx="2" focusy="2"/>
         <part id="cursor_size_ns" x="80" y="112" w="16" h="16" focusx="8" focusy="8"/>
         <part id="cursor_size_we" x="80" y="144" w="16" h="16" focusx="8" focusy="8"/>
         <part id="cursor_size_n" x="80" y="112" w="16" h="16" focusx="8" focusy="8"/>
@@ -138,7 +138,7 @@
         <part id="cursor_rotate_sw" x="240" y="208" w="16" h="16" focusx="8" focusy="8"/>
         <part id="cursor_rotate_w" x="240" y="176" w="16" h="16" focusx="8" focusy="8"/>
         <part id="cursor_rotate_nw" x="240" y="160" w="16" h="16" focusx="8" focusy="8"/>
-        <part id="cursor_eyedropper" x="80" y="224" w="16" h="16" focusx="0" focusy="15"/>
+        <part id="cursor_eyedropper" x="80" y="224" w="16" h="16" focusx="1" focusy="14"/>
         <part id="cursor_magnifier" x="80" y="240" w="16" h="16" focusx="5" focusy="5"/>
         <part id="radio_normal" x="64" y="64" w="8" h="8"/>
         <part id="radio_selected" x="64" y="80" w="8" h="8"/>
