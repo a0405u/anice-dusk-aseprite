@@ -1,10 +1,10 @@
 {
   "name": "anise-dusk-theme",
   "displayName": "Anise Dusk Theme",
-  "description": "Nighttime Pixel-Art Theme",
+  "description": "Dusk Theme that which smells of anice",
   "version": "1.0",
-  "author": { "name": "A0405u", "email": "A0405u@gmail.com" },
-  "license": "GNU GPLv3",
+  "author": { "name": "a0405u", "email": "a0405u@gmail.com" },
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
